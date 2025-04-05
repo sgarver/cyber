@@ -225,5 +225,22 @@ https://github.com/Pennyw0rth/NetExec
 ## Creditial Dumping SAM
 https://www.hackingarticles.in/credential-dumping-sam/
 
+## Cheetsheets (AD+)
+https://0xdf.gitlab.io/cheatsheets/
+
+## Out of band Data Extraction
+https://app.interactsh.com
+https://webhook.site
+
+## blind xss
+https://xsshunter.trufflesecurity.com
+
+## jsonp callback
+https://youtube.com/oembed?url=https://youtu.be/PER6Nvr6ij8?si=QDYdK9x8TbIOJaLz
+<script/src=https://youtube.com/oembed?url=https://youtu.be/PER6Nvr6ij8?si=QDYdK9x8TbIOJaLz&callback=alert(1)>
+
+## localhost blacklist evasion
+https://nip.io/
+
 
 
